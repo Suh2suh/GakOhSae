@@ -1,0 +1,2 @@
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ScoreTexter.GetName () [0x00043] in C:\Users\SUHYEON L\Desktop\Gak-Oh-Sae_NewVer\Assets\Scripts\ScoreTexter.cs:40 
